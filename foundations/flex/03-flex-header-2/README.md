@@ -1,21 +1,21 @@
-# Another common header style
+# Outro estilo comum de cabeçalho
 
-We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
+Estamos começando a introduzir um pouco mais de CSS que você ainda não viu. Não se preocupe com isso por enquanto; queremos apenas que as coisas fiquem um pouco mais bonitas, e esse CSS não vai interferir na sua tarefa.
 
-For this one you will probably need to edit the HTML a little bit. Often with flexbox you need to add containers around things to make them go where you need them to go. In this case, you probably want to separate the items that go on the left and right of the header.
+Para este exercício, você provavelmente precisará editar um pouco o HTML. Frequentemente com flexbox é preciso adicionar contêineres ao redor dos elementos para fazê-los ir para onde você precisa. Neste caso, você provavelmente vai querer separar os itens que ficam à esquerda e à direita do cabeçalho.
 
-Just like you did in the `02-flex-header` exercise, you'll be nesting flex containers inside each other.
+Assim como você fez no exercício `02-flex-header`, você vai aninhar contêineres flex uns dentro dos outros.
 
-## Desired outcome
-As with the last example, this one needs to be flexible in the middle, with items pushed to the left and right.
+## Resultado desejado
+Assim como no último exemplo, este precisa ser flexível no centro, com itens empurrados para a esquerda e para a direita.
 
 ![png](./desired-outcome.png)
 
 ![gif](./desired-outcome.gif)
 
-### Self Check
-- Everything is centered vertically inside the header.
-- There is 8px space between everything and the edge of the header.
-- Items are arranged horizontally as seen in the outcome image.
-- There is 16px between each item on both sides of the header.
-- flex is used to arrange everything.
+### Verificação Própria
+- Tudo está centrado verticalmente dentro do cabeçalho.
+- Há 8px de espaço entre tudo e a borda do cabeçalho.
+- Os itens estão dispostos horizontalmente como mostrado na imagem de resultado.
+- Há 16px entre cada item em ambos os lados do cabeçalho.
+- flex é usado para organizar tudo.
